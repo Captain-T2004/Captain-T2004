@@ -1,13 +1,19 @@
-- 👋 Hi, I’m @Captain-T2004(Akshay Behl)
-- 👀 I am a cybersec enthusiast and I love open source.
-- Find me here: https://www.linkedin.com/in/akshay-behl-450661258/
+# Akshay Behl (@Captain-T2004)
 
-<!---
-Captain-T2004/Captain-T2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hello! I'm Akshay, a cybersecurity enthusiast and passionate open-source contributor.
 
-# List of all my Project(that are worth mentioning):
-1. CyberFortress: Web application to test and manage API endpoints health for an organization with CI/CD integration(Jenkins).
-2. VulTURE: Web application for customizable security scans using opensource tools, automate security scans.
-3. TypeQuest: Python based OCR tool used to run a text-based game on chat platforms.
+## About Me
+- 🔒 Passionate about web application security and automation.
+- 🌱 Currently diving into data structures and algorithms.
+- 💡 Always eager to collaborate on innovative software and security projects.
+
+## Featured Projects
+1. **CyberFortress**: Web app for API endpoint health testing with CI/CD integration (Jenkins)
+2. **VulTURE**: Automated security scanning platform using open-source tools
+3. **TypeQuest**: Python-based OCR tool for text-based game automation on chat platforms
+
+## Connect With Me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/akshay-behl-450661258/)
+- 📧 [Email](mailto:akshaybehl213@outlook.com)
+
+Let's collaborate and make the digital world more secure! 🛡️
